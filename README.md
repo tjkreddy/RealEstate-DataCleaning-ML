@@ -35,7 +35,13 @@ The dataset consists of real estate property details, including:
    ```
 3. Run the Jupyter notebooks in your preferred environment.
 
-## Results
+##Teammates
+1. Parthiv Reddy -- SE22UCSE298 
+2. Lakshmi Reddy -- SE22UCSE277
+3. Jugal Kishore Reddy -- SE22UCSE272
+4. Thannoj -- SE22UCSE273
+
+## Results 
 - Missing values successfully handled, reducing data inconsistencies.
 - Outliers managed effectively, improving dataset reliability.
 - Enhanced data quality for better ML model performance.
@@ -44,5 +50,5 @@ The dataset consists of real estate property details, including:
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License .
 
