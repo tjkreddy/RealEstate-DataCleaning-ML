@@ -35,7 +35,7 @@ The dataset consists of real estate property details, including:
    ```
 3. Run the Jupyter notebooks in your preferred environment.
 
-##Teammates
+## Teammates
 1. Parthiv Reddy -- SE22UCSE298 
 2. Lakshmi Reddy -- SE22UCSE277
 3. Jugal Kishore Reddy -- SE22UCSE272
